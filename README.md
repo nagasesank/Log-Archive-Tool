@@ -12,3 +12,5 @@ This Python script creates a command-line tool to archive log files. It takes th
 3. Log Details:
   The date, time, and archive location are recorded in the specified log file.
   You can modify the output-dir and log-file paths as needed for your system.
+
+https://roadmap.sh/projects/log-archive-tool
